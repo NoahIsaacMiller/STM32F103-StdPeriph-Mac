@@ -66,8 +66,8 @@
 brew install arm-none-eabi-gcc stlink cmake
 
 # 克隆项目
-git clone https://github.com/NoahIsaacMiller/Stm32-F103-C8T6-Std-Peripheral-Lib-Template-On-Mac-Apple-Silicon.git
-cd Stm32-F103-C8T6-Std-Peripheral-Lib-Template-On-Mac-Apple-Silicon
+git clone https://github.com/NoahIsaacMiller/STM32F103-StdPeriph-Mac.git
+cd STM32F103-StdPeriph-Mac
 
 # 赋予脚本执行权限
 chmod +x f1flow
