@@ -27,7 +27,7 @@
 
 ### 依赖工具
 
-- **交叉编译器**：`arm-none-eabi-gcc`（版本10及以上）
+- **交叉编译器**：`arm-none-eabi-gcc`（版本10及以上）[传送门](https://developer.arm.com/-/media/Files/downloads/gnu/14.3.rel1/binrel/arm-gnu-toolchain-14.3.rel1-darwin-arm64-aarch64-none-elf.tar.xz)
 - **构建工具**：`cmake`（3.10+）、`make`
 - **烧录工具**：`st-link`（含`st-flash`命令）
 - **推荐IDE**：VS Code（搭配C/C++、CMake Tools插件）
