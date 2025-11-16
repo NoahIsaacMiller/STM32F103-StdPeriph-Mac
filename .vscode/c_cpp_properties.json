@@ -6,7 +6,10 @@
                 "${workspaceFolder}/inc/driver",
                 "${workspaceFolder}/inc/user"
             ],
-            "defines": [],
+            "defines": [
+                "USE_STDPERIPH_DRIVER",
+                "STM32F10X_MD"
+            ],
             "compilerPath": "/usr/bin/clang",
             "intelliSenseMode": "macos-clang-arm64"
         }
